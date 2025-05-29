@@ -1,0 +1,8 @@
+{
+  "analysis_date": "2025-05-27T09:00:01.283455",
+  "total_documents": 14,
+  "relevant_documents": 2,
+  "total_findings": 0,
+  "filter_criteria": "PDFs containing both 'agent' AND 'stability'",
+  "questions": {}
+}

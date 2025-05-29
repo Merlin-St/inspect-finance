@@ -213,6 +213,7 @@ def process_df_prompts(df, model_type, system_prompt="You are a helpful AI assis
     
     return result_df
 
+"""
 # example usage
 import pandas as pd
 
@@ -232,4 +233,4 @@ results = process_df_prompts(
 
 # Print results
 print(results[['question', 'response', 'total_tokens']])
-
+"""
