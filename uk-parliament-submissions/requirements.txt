@@ -3,3 +3,4 @@ PyPDF2
 anthropic
 beautifulsoup4
 selenium
+pdfplumber
